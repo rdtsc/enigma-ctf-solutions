@@ -16,5 +16,5 @@ const enigma = require('~/lib/enigma');
   payload.submit = 'Submit Answer';
   payload.answer = $('input[name*="number"]').val() * 4;
 
-  console.log(await enigma.post(problemId, payload));
+  console.log(await enigma.post(problemId, payload, false));
 })();
