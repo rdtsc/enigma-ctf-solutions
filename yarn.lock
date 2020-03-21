@@ -259,6 +259,11 @@ is-ip@^3.1.0:
   dependencies:
     ip-regex "^4.0.0"
 
+jpeg-asm@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/jpeg-asm/-/jpeg-asm-1.0.0.tgz#7c06c9fa456de4cba0217066d5555dbb6a531b38"
+  integrity sha1-fAbJ+kVt5MugIXBm1VVdu2pTGzg=
+
 json-buffer@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/json-buffer/-/json-buffer-3.0.0.tgz#5b1f397afc75d677bde8bcfc0e47e1f9a3d9a898"
