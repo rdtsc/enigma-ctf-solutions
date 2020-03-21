@@ -36,7 +36,5 @@ function decodeImage(data)
 
   const [preamble, answer] = decodeImage(img).split(':');
 
-  const payload = {answer: answer};
-
-  console.log(await enigma.post(problemId, payload));
+  console.log(await enigma.post(problemId, {answer}));
 })();
