@@ -13,7 +13,7 @@ function decodeImage(data)
 
   const area = img.width * img.height;
 
-  assert(((area >>> 3) << 3) == area);
+  assert(area && !(area % 8));
 
   const payload = [];
 
