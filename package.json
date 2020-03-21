@@ -10,6 +10,7 @@
     "lodash.chunk": "^4.2.0",
     "pngjs": "^3.4.0",
     "public-ip": "^4.0.0",
+    "temp": "^0.9.1",
     "wavy": "^1.0.4"
   },
   "scripts": {

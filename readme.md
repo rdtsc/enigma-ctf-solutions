@@ -34,7 +34,10 @@ of this writing, automation of the above steps does not seem warranted.
 
 ### Local Environment
 
+- Linux
 - Node.js >= v12.16.1
+- pngtopnm
+- gocr
 
 
 ## Development Notes

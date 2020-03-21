@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Challenge 8 Analysis</title>
+    <style>
+      html, body
+      {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      body
+      {
+        background: #aaa;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      img, canvas
+      {
+        margin-bottom: 10px;
+        border: 1px solid #000;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+      }
+    </style>
+  </head>
+  <body>
+    <img src="data:image/png;base64,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">
+    <script src="test.js"></script>
+  </body>
+</html>
