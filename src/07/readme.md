@@ -16,6 +16,7 @@ Challenge Endpoint: `http://challenges.enigmagroup.org/programming/7/`
 >
 > Company: B.E.F.B.U
 >
+> ```
 > Department: Secretaries Monthly Budget: $53463 Department: Programmers Monthly
 > Budget: $492127 Department: Technical Support Monthly Budget: $104288
 > Department: Logistics Monthly Budget: $73496 Department: Research Monthly
@@ -180,5 +181,6 @@ Challenge Endpoint: `http://challenges.enigmagroup.org/programming/7/`
 > Monthly Budget: $166723 Department: Technical Support Monthly Budget: $106372
 > Department: Logistics Monthly Budget: $83485 Department: Research Monthly
 > Budget: $338723
+> ```
 
 The inputs are non-static and refresh with each request.
