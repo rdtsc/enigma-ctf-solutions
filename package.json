@@ -7,6 +7,7 @@
     "brainfuck-node": "^1.0.2",
     "cheerio": "^1.0.0-rc.3",
     "jpeg-asm": "^1.0.0",
+    "linear-solve": "^1.2.1",
     "lodash.chunk": "^4.2.0",
     "pngjs": "^3.4.0",
     "public-ip": "^4.0.0",

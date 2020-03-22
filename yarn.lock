@@ -324,6 +324,11 @@ keyv@^3.0.0:
   dependencies:
     json-buffer "3.0.0"
 
+linear-solve@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/linear-solve/-/linear-solve-1.2.1.tgz#6dcd0a5b0fe8547b7a5971fe2f77221c8c96a20e"
+  integrity sha1-bc0KWw/oVHt6WXH+L3ciHIyWog4=
+
 lodash.chunk@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/lodash.chunk/-/lodash.chunk-4.2.0.tgz#66e5ce1f76ed27b4303d8c6512e8d1216e8106bc"
