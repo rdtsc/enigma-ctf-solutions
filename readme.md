@@ -1,4 +1,6 @@
-# Enigma Group CTF Solutions
+# Enigma Group (Defunct) CTF Solutions
+
+**As of May 2021, Enigma Group has ceased operations.**
 
 This repository houses my personal solutions to
 [Enigma Group's programming challenges][challenges].
@@ -59,7 +61,7 @@ All referenced product names, trademarks, logos, and images are property of
 their respective owners.
 
 
-[challenges]: https://www.enigmagroup.org/pages/programming/
+[challenges]: https://web.archive.org/web/20210122090320/https://www.enigmagroup.org/pages/programming/
               "The Enigma Group - Programming Challenges"
 
 [mit]: http://opensource.org/licenses/MIT/
